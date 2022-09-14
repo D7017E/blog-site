@@ -4,13 +4,14 @@ title: About
 permalink: /about/
 ---
 
-<!-- <img style="  border-radius: 50%;
-"src="img/CV_HUGO1.2.jpg" alt="Avatar"> -->
+We are a group of 12 students from the Luleå University of Technology.
+In our fifth year we are now taking a course, D7017E, where we are
+working together with a company to develop some software.
 
-<!-- ![Photo](/img/Hugo-Photo.png) -->
-
-Hello! This is a place where I might publish some of my thoughts. They will probably be related to programming, in some way.
-Might be about the things I like to do, or the things I want to learn.
+Together with [Grepit AB](https://www.grepit.se/) we are developing
+a smart home system. This smart home system will consist of a
+mobile application, a backend, and a robotic arm that will
+automatically insert a charging cable into an electric vehicle.
 
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

@@ -18,18 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hugo's Thought Space
-email: hugo_pettersson@yahoo.se
+title: D7017E 2022 Grepit Group
+# email: hugo_pettersson@yahoo.se
 description: >- # this means to ignore newlines until "baseurl:"
-  Hugo Pettersson's personal blog. Currently a fifth year computer science student at Luleå University of Technology. I'm interested in software, 60's sci-fi novels, and David Bowie.
-domain: HugPet.github.io
+  Development blog for D7017E 2022.
 # baseurl: /HugPet.github.io/ # the subpath of your site, e.g. /blog
-url: https://HugPet.github.io # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  HugPet
-linkedin_username:  hugo-pettersson
-author: Hugo Pettersson
 
-imagesurl: "/img/"
 
 # Build settings
 theme: minima
