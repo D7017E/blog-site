@@ -4,6 +4,9 @@
 
 https://jekyllrb.com/docs/installation/
 
+## Running the site locally
+After you have installed Ruby and Jekyll, run `bundle exec jekyll serve` in the root terminal.
+
 ## Updating the site
 
 ### Adding a new post
