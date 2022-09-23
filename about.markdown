@@ -8,10 +8,16 @@ We are a group of 12 students from the Luleå University of Technology.
 In our fifth year we are now taking a course, D7017E, where we are
 working together with a company to develop some software.
 
-Together with [Grepit AB](https://www.grepit.se/) we are developing
-a smart home system. This smart home system will consist of a
-mobile application, a backend, and a robotic arm that will
-automatically insert a charging cable into an electric vehicle.
+Together with [Luleå Makerspace](https://www.luleamakerspace.se/) we are
+working on developing functionality for a robot, 
+[Pepper](https://www.aldebaran.com/en/pepper). 
+Luleå Makerspace is an ideal organization' work is mainly introducing children
+to programming and modern technology. The organization focuses on gender equality,
+and has as a goal to make girls and young women more welcome in the tech-space.
+Part of the project is aiming to make programming on the robot accessible to 
+everyone with the help of a block programming language. Another part is focused
+on developing custom interactions for the robot, such as playing hide and seek, or
+telling an interactive story.
 
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
