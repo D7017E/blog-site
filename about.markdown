@@ -19,6 +19,30 @@ everyone with the help of a block programming language. Another part is focused
 on developing custom interactions for the robot, such as playing hide and seek, or
 telling an interactive story.
 
+## Group members
+### Block programming
+Our goal is to create a block programming solution for kids to be able to program the Pepper robot in an easy way.
+We believe kids can build an interest with new technology by seeing first-hand hanges from code to movement of the Pepper robot.
+* Johan Olsson
+* Hugo Pettersson
+* Casper Lundberg
+* Nour Bahtite
+
+### Interaction
+#### Image recognition
+* Elie Jamous
+* Dennis Trollsfjord
+* Anders Dahl
+* Simon Lundberg
+
+#### Rock paper scissor
+* Simon Berghem
+* Rickard Bemm
+
+#### Web interaction
+* Erik Sörensen
+* Oscar Lundberg
+
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
