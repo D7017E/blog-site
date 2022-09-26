@@ -21,3 +21,7 @@ After you have installed Ruby and Jekyll, run `bundle exec jekyll serve` in the 
 - .md files can display html content. (See previous 2022-09-14-first-post.md)
 - To display a link, syntax is [text](link). There is also special syntax for displaying an image (but html can be used).
 - For some other tips, see [Hugo's github for a jekyll site](https://github.com/HugPet/HugPet.github.io)
+
+## Link to site
+
+https://d7017e.github.io/blog-site/
