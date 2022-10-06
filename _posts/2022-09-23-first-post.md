@@ -31,3 +31,21 @@ GUI.
 This group will work with robotics, and is responsible for creating
 custom behavior for Pepper. There is also a focus on AI in this group,
 e.g image recognition.
+
+#### Web interaction
+
+Allow Pepper to search the web for 
+information based on user input. The scope includes
+searching for text and images, and also displaying
+images on Pepper's tablet.
+
+#### Image recognition
+
+Pepper has some basic image recognition functionality,
+such as recognizing faces. This group will work on expanding functionality, so that Pepper will be able 
+to recognize for example the hand gestures used in a game of rock-paper-scissors. The group will also expand it in other ways.
+
+#### Rock-paper-scissors
+
+To enable Pepper to play rock-paper-scissors, we
+have a group that implements arm- and hand movement for playing rock-paper-scissors. This group will utilize the work of the image recognition group. We have also chosen to display on Pepper's tablet what Pepper chooses.
