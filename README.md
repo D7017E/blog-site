@@ -24,4 +24,4 @@ After you have installed Ruby and Jekyll, run `bundle exec jekyll serve` in the 
 
 ## Link to site
 
-https://d7017e.github.io/blog-site/
+https://pepperonit.github.io/blog-site/
